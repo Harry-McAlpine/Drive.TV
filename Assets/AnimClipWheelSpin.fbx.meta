@@ -1,8 +1,11 @@
 fileFormatVersion: 2
-guid: be79616184ae52b4ba30f18eb6c8b7d6
+guid: 064c5c9967283fa48a63317be50a5444
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: 1225460078170506574
+    second: WheelSpin
   externalObjects: {}
   materials:
     materialImportMode: 2
